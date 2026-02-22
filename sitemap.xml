@@ -17,4 +17,34 @@
   <url><loc>https://www.summerservings.org/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://www.summerservings.org/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://www.summerservings.org/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://www.summerservings.org/blog/addressing-childhood-hunger-during-school-breaks/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.summerservings.org/blog/community-food-banks-innovation-in-distribution/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.summerservings.org/blog/farm-to-school-programs-improving-nutrition-access/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.summerservings.org/blog/policy-solutions-for-food-desert-communities/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.summerservings.org/blog/the-connection-between-nutrition-and-academic-performance/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
