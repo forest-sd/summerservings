@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Summer Servings</title>
-    <link>https://summerservings.pages.dev</link>
+    <link>https://www.summerservings.org</link>
     <description>Latest posts from Summer Servings</description>
     <language>en-us</language>
     <lastBuildDate>2026-02-21</lastBuildDate>
-    <atom:link href="https://summerservings.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.summerservings.org/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>The Role of Local Restaurants in Community Building</title>
-      <link>https://summerservings.pages.dev/blog/the-role-of-local-restaurants-in-community-building/</link>
+      <link>https://www.summerservings.org/blog/the-role-of-local-restaurants-in-community-building/</link>
       <description>The Role of Local Restaurants in Community Building — an in-depth exploration with evidence-based insights.</description>
       <pubDate>2026-02-21</pubDate>
     </item>
